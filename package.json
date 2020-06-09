@@ -1,0 +1,24 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Projeto Ecoleta com com JS, React Native",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanderDEV-VJK/NLW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanderDEV-VJK/NLW/issues"
+  },
+  "homepage": "https://github.com/VanderDEV-VJK/NLW#readme"
+}
